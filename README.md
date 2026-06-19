@@ -1,6 +1,6 @@
 # Urdu IPA to CISAMPA Lexicon Conversion
 
-Converts a word-level IPA (International Phonetic Alphabet) lexicon into **CISAMPA** format — the phonetic inventory used by the CLE (Centre for Language Engineering) Urdu TTS system.
+Converts a word-level IPA (International Phonetic Alphabet) lexicon into **Case Insensitive Speech Assessment Method Phonetic Alphabet (CISAMPA)** format — the phonetic inventory used by the CLE (Centre for Language Engineering) Urdu TTS system.
 
 ---
 
